@@ -1,4 +1,4 @@
-Multilingual Hate Speech Detection Using Deep Learning Methods
+# Multilingual Hate Speech Detection Using Deep Learning Methods
 
 The research started with collecting data from the YouTube, the most common video sharing platform by using certain
 keywords and then data is pre-processed by converting videos into audio then transcripts and later transcripts are NLP
